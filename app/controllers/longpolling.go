@@ -2,7 +2,7 @@ package controllers
 
 import (
 	"github.com/revel/revel"
-	"github.com/revel/examples/chat/app/chatroom"
+	"revel_chat/app/chatroom"
 )
 
 type LongPolling struct {
